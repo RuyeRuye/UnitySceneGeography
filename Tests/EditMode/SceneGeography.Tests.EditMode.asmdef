@@ -1,0 +1,15 @@
+{
+  "name": "SceneGeography.Tests.EditMode",
+  "references": [
+    "SceneGeography.Core",
+    "SceneGeography.Unity",
+    "SceneGeography.Editor",
+    "SceneGeography.Tests.Shared"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

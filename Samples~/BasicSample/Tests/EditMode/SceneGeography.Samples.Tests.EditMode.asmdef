@@ -1,0 +1,16 @@
+{
+  "name": "SceneGeography.Samples.Tests.EditMode",
+  "references": [
+    "SceneGeography.Core",
+    "SceneGeography.Unity",
+    "SceneGeography.Editor",
+    "SceneGeography.Samples",
+    "SceneGeography.Samples.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SceneGeography.Samples.Tests.PlayMode",
+  "references": [
+    "SceneGeography.Core",
+    "SceneGeography.Unity",
+    "SceneGeography.Samples"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

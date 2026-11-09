@@ -1,0 +1,11 @@
+{
+  "name": "SceneGeography.Editor",
+  "rootNamespace": "SceneGeography.Editor",
+  "references": [
+    "SceneGeography.Core",
+    "SceneGeography.Unity"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

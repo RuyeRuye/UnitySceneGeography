@@ -1,0 +1,12 @@
+{
+  "name": "SceneGeography.Samples.Editor",
+  "references": [
+    "SceneGeography.Core",
+    "SceneGeography.Unity",
+    "SceneGeography.Editor",
+    "SceneGeography.Samples"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

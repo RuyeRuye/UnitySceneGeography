@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fc885db12761afc2cf43c7dce904bc6, type: 3}
+  m_Name: Upright-Profile
+  m_EditorClassIdentifier: SceneGeography.Unity::SceneGeography.GeoCalibrationProfile
+  schemaVersion: 1
+  localFrameId: synthetic-block-v1
+  mode: 1
+  points:
+  - id: Control-1
+    role: 0
+    weight: 1
+    localPosition:
+      x: -70.09957122802734
+      y: 4
+      z: -17.658458709716797
+    coordinate:
+      horizontalType: 1
+      heightKind: 1
+      latitudeDegrees: 31.230039227570803
+      longitudeDegrees: 121.47307024043198
+      heightMeters: 15.000407892279327
+      ellipsoidZeroMeters: 0
+      assumedHeightZero: 0
+      heightModelId: 
+  - id: Control-2
+    role: 0
+    weight: 1
+    localPosition:
+      x: 81.62084197998047
+      y: 4
+      z: -105.09403228759766
+    coordinate:
+      horizontalType: 2
+      heightKind: 1
+      latitudeDegrees: 31.228139619468458
+      longitudeDegrees: 121.47905996662905
+      heightMeters: 15.000597679056227
+      ellipsoidZeroMeters: 0
+      assumedHeightZero: 0
+      heightModelId: 
+  - id: Control-3
+    role: 0
+    weight: 1
+    localPosition:
+      x: 100.8171157836914
+      y: 4
+      z: 67.15743255615234
+    coordinate:
+      horizontalType: 3
+      heightKind: 1
+      latitudeDegrees: 31.235118522609373
+      longitudeDegrees: 121.4849917566163
+      heightMeters: 15.000668863765895
+      ellipsoidZeroMeters: 0
+      assumedHeightZero: 0
+      heightModelId: 
+  - id: Control-4
+    role: 1
+    weight: 1
+    localPosition:
+      x: 16.676925659179688
+      y: 14
+      z: 97.62446594238281
+    coordinate:
+      horizontalType: 1
+      heightKind: 1
+      latitudeDegrees: 31.231076443436244
+      longitudeDegrees: 121.47317519528531
+      heightMeters: 23.000638537108898
+      ellipsoidZeroMeters: 0
+      assumedHeightZero: 0
+      heightModelId: 
+  - id: Control-5
+    role: 1
+    weight: 1
+    localPosition:
+      x: 127.32415771484375
+      y: 26.5
+      z: -8.364930152893066
+    coordinate:
+      horizontalType: 2
+      heightKind: 1
+      latitudeDegrees: 31.228906898833657
+      longitudeDegrees: 121.47895542048275
+      heightMeters: 33.000580546446145
+      ellipsoidZeroMeters: 0
+      assumedHeightZero: 0
+      heightModelId: 
+  localUp: {x: 0, y: 1, z: 0}
+  localHeadingDirection: {x: 0.52991927, y: 0, z: 0.8480481}
+  boundHeadingDegrees: 0
+  estimateScale: 1
+  localUnitsPerMeter: 1.25
+  options:
+    useExplicitOrigin: 1
+    originLatitudeDegrees: 31.2304
+    originLongitudeDegrees: 121.47370000000001
+    originEllipsoidHeightMeters: 15
+    minimumBaselineMeters: 0.01
+    nearCollinearRatio: 0.0001
+    minimumScale: 0.000001
+    maximumScale: 1000000
+    limitFitRms: 1
+    limitVerticalRms: 0
+    limitCheckRms: 0
+    limitCheckMaximum: 1
+    limitDistance: 0
+    fitRmsMeters: 0.02
+    verticalRmsMeters: 0.5
+    checkRmsMeters: 1
+    checkMaximumMeters: 0.03
+    maximumDistanceMeters: 5000

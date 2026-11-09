@@ -1,0 +1,20 @@
+{
+  "name": "io.github.ruyeruye.scene-geography",
+  "displayName": "Scene Geography",
+  "author": {
+    "name": "Ruye",
+    "url": "https://github.com/RuyeRuye"
+  },
+  "description": "This package is used to convert latitude, longitude and altitude into Unity scene positions, and also to convert scene positions back to geographic coordinates. After calibration is completed through several known corresponding points, POIs can be placed, geographic orientation can be set, or the latitude and longitude of the player's current position can be read.",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "license": "MIT",
+  "keywords": ["geo", "geography", "latitude", "longitude", "gps", "poi"],
+  "samples": [
+    {
+      "displayName": "Basic Sample",
+	  "description": "A basic sample showing how to calibrate and convert coordinates.",
+      "path": "Samples~/BasicSample"
+    }
+  ]
+}

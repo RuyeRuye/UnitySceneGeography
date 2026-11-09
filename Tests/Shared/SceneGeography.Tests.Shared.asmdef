@@ -1,0 +1,10 @@
+{
+  "name": "SceneGeography.Tests.Shared",
+  "references": [
+    "SceneGeography.Core",
+    "SceneGeography.Unity"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
